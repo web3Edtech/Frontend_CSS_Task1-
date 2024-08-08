@@ -1,7 +1,7 @@
 {
-  "name": "personal-profile-page",
+  "name": "profile-page",
   "version": "1.0.0",
-  "description": "A comprehensive HTML webpage for a personal profile page demonstrating various HTML elements",
+  "description": "A task to develop a profile page using HTML and CSS, focusing on various CSS properties.",
   "main": "index.html",
   "scripts": {
     "start": "open index.html"

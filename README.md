@@ -1,2 +1,2 @@
-# Frontend_HTML_Task1
-HTML and Basic Tags
+# Frontend_CSS_Task1
+ Designing a Thematic Profile Page
